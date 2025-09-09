@@ -26,10 +26,9 @@ Uma calculadora de Índice de Massa Corporal (IMC) desenvolvida em **React**, qu
 | 30,0 – 39,9  | Obesidade       | II        | medium    |
 | ≥ 40,0       | Obesidade grave | III       | high      |
 
----
-
 
 ### 📸 Preview
+
 <img width="1920" height="1020" alt="Captura de tela 2025-09-09 095053" src="https://github.com/user-attachments/assets/7778c637-65a7-465e-b1db-edf7a3a99472" />
 
 <img width="1920" height="1020" alt="Captura de tela 2025-09-09 095115" src="https://github.com/user-attachments/assets/1cd94caa-43f2-4f37-a0de-39e6d646144e" />
